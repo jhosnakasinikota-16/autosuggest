@@ -13,4 +13,7 @@ h1 {
 .para{
     border: 2px;
     border-color: black;
+    border-style: solid;
+    padding: 10px;
+    text-align: center;
 }
