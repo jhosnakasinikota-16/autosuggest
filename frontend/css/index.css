@@ -9,3 +9,7 @@ h1 {
 .heading{
     color:rgb(165, 161, 42);
 }
+
+.para{
+    border: 2px;
+}
