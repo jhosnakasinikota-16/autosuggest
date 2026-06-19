@@ -21,7 +21,23 @@ h1 {
 .navbar{
     border: 3px;
     border-style:solid;
-    border-color: blueviolet;
-    padding: 30px;
-    background-color: bisque;
+    border-color: rgba(16, 1, 1, 0.933);
+    padding: 15px;
+    background-color: rgb(217, 5, 5);
+    text-align: center;
+}
+
+.navbar a{
+    color: rgb(5, 1, 16);
+    padding: 15px;
+    text-decoration-line: none;
+}
+
+.navbar a:hover{
+    background-color:green;
+    color:white;
+}
+
+body{
+    margin: 0px;
 }
